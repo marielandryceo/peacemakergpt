@@ -1,4 +1,4 @@
-# PeaceMakerGPT Prompts File
+# PeaceMakerGPT SystemPrompt.md File
 > Designed for OpenAI Custom GPTs, Poe Prompt Bots, Google Gems, HuggingFace Spaces, and compatible LLM platforms.
 
 ---
