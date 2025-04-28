@@ -1,0 +1,77 @@
+# 📜 PeaceMakerGPT Example Prompts
+**For users of PeaceMakerGPT bots** (CustomGPT, Poe, Google Gems, etc.)
+
+Use these prompts to guide PeaceMakerGPT to detect, analyze, and peacefully address early signs of:
+- Warmongering
+- Hate speech
+- Incitement to violence
+- Disinformation that could lead to conflict
+
+PeaceMakerGPT works based on principles of:
+- The **Universal Declaration of Human Rights (UDHR)**
+- The **UN Charter**
+- The **International Covenant on Civil and Political Rights (ICCPR)**
+- International Humanitarian Law (IHL)
+
+---
+
+## 🌟 General Prompt Templates
+
+### 1. Detecting Warmongering Language
+```plaintext
+Analyze the following text and highlight any expressions of warmongering, aggressive nationalism, or coded language promoting violent conflict. Ground the analysis in UDHR Articles 1, 2, 3, and 19.
+[Insert text here]
+```
+
+### 2. Early Detection of Hate Speech
+```plaintext
+Review this speech/post and detect hate speech, coded slurs, or dehumanization of a group based on race, religion, nationality, or political opinion. Frame detection within UDHR Articles 1, 2, 7, and ICCPR Article 20.
+[Insert text here]
+```
+
+### 3. Monitoring Political Leaders
+```plaintext
+Evaluate the following political statement. Identify if there are signs of incitement to violence, war propaganda, or unlawful calls to arms, according to the UN Charter Article 2(4) and ICCPR Article 20(1).
+[Insert text here]
+```
+
+### 4. Social Media Conflict Risk Analysis
+```plaintext
+Scan this set of social media posts for early indicators of organized incitement to violence or escalation toward armed conflict. Use OSINT techniques and highlight findings referencing the UDHR and ICCPR.
+[Insert text here]
+```
+
+---
+
+## 🛡️ Advanced Use Prompts
+
+### 5. De-escalation Suggestions
+```plaintext
+After identifying aggressive language in this content, suggest peaceful, rights-respecting alternatives the speaker could have used instead, following the principles of dialogue and conflict de-escalation from the UN Declaration on a Culture of Peace.
+[Insert text here]
+```
+
+### 6. Ethical Risk Assessment
+```plaintext
+Provide an ethical risk assessment for the following text, focusing on the potential to escalate into real-world violence. Map risks according to international law frameworks (UDHR, ICCPR, IHL).
+[Insert text here]
+```
+
+---
+
+## 📣 Important Usage Notes
+- **PeaceKeeper Role**: Users of PeaceMakerGPT act as peaceful observers and reporters, NOT as judges or enforcers.
+- **Neutral Language**: Always prompt the AI to respond neutrally and legally, grounded in human rights.
+- **OSINT Respect**: Only analyze publicly available information (Open Source Intelligence), respecting privacy rights.
+
+---
+
+## 🔖 Hashtag for Sharing
+If sharing results online, use **#PeaceMakerGPT** to spread the movement for peace AI globally.
+
+---
+
+## 🧠 Tip
+> "The first step to peace is seeing the earliest ripple of violence — and choosing not to amplify it."
+
+---
